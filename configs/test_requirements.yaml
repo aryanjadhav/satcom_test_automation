@@ -1,0 +1,12 @@
+tests:
+  snr_test:
+    minimum_snr_db: 10
+
+  ber_test:
+    maximum_ber: 0.000001
+
+  latency_test:
+    maximum_latency_ms: 50
+
+  throughput_test:
+    minimum_throughput_mbps: 20

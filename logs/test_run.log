@@ -1,0 +1,168 @@
+2026-07-03 01:40:36,558 | INFO | New satellite modem test run started
+2026-07-03 01:40:36,558 | INFO | Run ID: 20260703_014036
+2026-07-03 01:40:36,559 | INFO | Timestamp: 2026-07-03T01:40:36
+2026-07-03 01:40:36,559 | INFO | SNR Test | Measured: 17.44 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:40:36,559 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:40:36,559 | INFO | Latency Test | Measured: 34.07 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:40:36,559 | INFO | Throughput Test | Measured: 28.14 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:40:36,559 | INFO | Test run completed
+2026-07-03 01:43:39,518 | INFO | New satellite modem test run started
+2026-07-03 01:43:39,518 | INFO | Run ID: 20260703_014339
+2026-07-03 01:43:39,518 | INFO | Timestamp: 2026-07-03T01:43:39
+2026-07-03 01:43:39,518 | INFO | SNR Test | Measured: 14.28 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:43:39,518 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:43:39,518 | INFO | Latency Test | Measured: 71.52 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:43:39,518 | INFO | Throughput Test | Measured: 34.61 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:43:39,518 | INFO | Test run completed
+2026-07-03 01:52:48,716 | INFO | New satellite modem test run started
+2026-07-03 01:52:48,716 | INFO | Run ID: 20260703_015248
+2026-07-03 01:52:48,717 | INFO | Timestamp: 2026-07-03T01:52:48
+2026-07-03 01:52:48,717 | INFO | SNR Test | Measured: 10.76 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:52:48,717 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:52:48,717 | INFO | Latency Test | Measured: 62.1 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:52:48,717 | INFO | Throughput Test | Measured: 16.68 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:52:48,717 | INFO | Test run completed
+2026-07-03 01:52:55,425 | INFO | New satellite modem test run started
+2026-07-03 01:52:55,425 | INFO | Run ID: 20260703_015255
+2026-07-03 01:52:55,426 | INFO | Timestamp: 2026-07-03T01:52:55
+2026-07-03 01:52:55,426 | INFO | SNR Test | Measured: 9.79 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 01:52:55,426 | INFO | BER Test | Measured: 2e-06 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:52:55,426 | INFO | Latency Test | Measured: 25.13 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:52:55,426 | INFO | Throughput Test | Measured: 34.34 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:52:55,426 | INFO | Test run completed
+2026-07-03 01:52:59,479 | INFO | New satellite modem test run started
+2026-07-03 01:52:59,479 | INFO | Run ID: 20260703_015259
+2026-07-03 01:52:59,479 | INFO | Timestamp: 2026-07-03T01:52:59
+2026-07-03 01:52:59,479 | INFO | SNR Test | Measured: 13.54 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:52:59,479 | INFO | BER Test | Measured: 1e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:52:59,479 | INFO | Latency Test | Measured: 34.22 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:52:59,479 | INFO | Throughput Test | Measured: 14.9 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:52:59,479 | INFO | Test run completed
+2026-07-03 01:53:10,545 | INFO | New satellite modem test run started
+2026-07-03 01:53:10,545 | INFO | Run ID: 20260703_015310
+2026-07-03 01:53:10,546 | INFO | Timestamp: 2026-07-03T01:53:10
+2026-07-03 01:53:10,546 | INFO | SNR Test | Measured: 10.38 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:53:10,546 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:53:10,546 | INFO | Latency Test | Measured: 75.01 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:53:10,546 | INFO | Throughput Test | Measured: 10.1 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:53:10,546 | INFO | Test run completed
+2026-07-03 01:53:14,206 | INFO | New satellite modem test run started
+2026-07-03 01:53:14,206 | INFO | Run ID: 20260703_015314
+2026-07-03 01:53:14,206 | INFO | Timestamp: 2026-07-03T01:53:14
+2026-07-03 01:53:14,206 | INFO | SNR Test | Measured: 17.51 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:53:14,206 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:53:14,206 | INFO | Latency Test | Measured: 33.3 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:53:14,207 | INFO | Throughput Test | Measured: 10.41 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:53:14,207 | INFO | Test run completed
+2026-07-03 01:55:41,594 | INFO | New satellite modem test run started
+2026-07-03 01:55:41,594 | INFO | Run ID: 20260703_015541
+2026-07-03 01:55:41,594 | INFO | Timestamp: 2026-07-03T01:55:41
+2026-07-03 01:55:41,594 | INFO | SNR Test | Measured: 11.06 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:55:41,594 | INFO | BER Test | Measured: 1e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:55:41,594 | INFO | Latency Test | Measured: 37.19 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:55:41,594 | INFO | Throughput Test | Measured: 28.71 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:55:41,594 | INFO | Test run completed
+2026-07-03 01:55:45,569 | INFO | New satellite modem test run started
+2026-07-03 01:55:45,570 | INFO | Run ID: 20260703_015545
+2026-07-03 01:55:45,570 | INFO | Timestamp: 2026-07-03T01:55:45
+2026-07-03 01:55:45,570 | INFO | SNR Test | Measured: 8.38 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 01:55:45,570 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:55:45,570 | INFO | Latency Test | Measured: 56.5 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:55:45,570 | INFO | Throughput Test | Measured: 12.01 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:55:45,571 | INFO | Test run completed
+2026-07-03 01:55:47,661 | INFO | New satellite modem test run started
+2026-07-03 01:55:47,663 | INFO | Run ID: 20260703_015547
+2026-07-03 01:55:47,663 | INFO | Timestamp: 2026-07-03T01:55:47
+2026-07-03 01:55:47,663 | INFO | SNR Test | Measured: 9.48 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 01:55:47,663 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:55:47,663 | INFO | Latency Test | Measured: 77.58 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:55:47,663 | INFO | Throughput Test | Measured: 14.62 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:55:47,663 | INFO | Test run completed
+2026-07-03 01:55:50,010 | INFO | New satellite modem test run started
+2026-07-03 01:55:50,010 | INFO | Run ID: 20260703_015550
+2026-07-03 01:55:50,010 | INFO | Timestamp: 2026-07-03T01:55:50
+2026-07-03 01:55:50,011 | INFO | SNR Test | Measured: 15.64 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:55:50,011 | INFO | BER Test | Measured: 8e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:55:50,011 | INFO | Latency Test | Measured: 49.21 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:55:50,011 | INFO | Throughput Test | Measured: 35.08 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:55:50,011 | INFO | Test run completed
+2026-07-03 01:55:51,652 | INFO | New satellite modem test run started
+2026-07-03 01:55:51,652 | INFO | Run ID: 20260703_015551
+2026-07-03 01:55:51,652 | INFO | Timestamp: 2026-07-03T01:55:51
+2026-07-03 01:55:51,653 | INFO | SNR Test | Measured: 16.67 dB | Limit: 10 dB | Status: PASS
+2026-07-03 01:55:51,653 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 01:55:51,653 | INFO | Latency Test | Measured: 21.68 ms | Limit: 50 ms | Status: PASS
+2026-07-03 01:55:51,653 | INFO | Throughput Test | Measured: 38.26 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 01:55:51,653 | INFO | Test run completed
+2026-07-03 01:55:54,744 | INFO | New satellite modem test run started
+2026-07-03 01:55:54,745 | INFO | Run ID: 20260703_015554
+2026-07-03 01:55:54,745 | INFO | Timestamp: 2026-07-03T01:55:54
+2026-07-03 01:55:54,745 | INFO | SNR Test | Measured: 9.15 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 01:55:54,745 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 01:55:54,745 | INFO | Latency Test | Measured: 66.25 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 01:55:54,745 | INFO | Throughput Test | Measured: 19.88 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 01:55:54,745 | INFO | Test run completed
+2026-07-03 02:04:19,555 | INFO | New satellite modem test run started
+2026-07-03 02:04:19,555 | INFO | Run ID: 20260703_020419
+2026-07-03 02:04:19,555 | INFO | Timestamp: 2026-07-03T02:04:19
+2026-07-03 02:04:19,555 | INFO | SNR Test | Measured: 8.65 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 02:04:19,555 | INFO | BER Test | Measured: 5e-06 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 02:04:19,556 | INFO | Latency Test | Measured: 72.98 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 02:04:19,556 | INFO | Throughput Test | Measured: 12.94 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 02:04:19,556 | INFO | Test run completed
+2026-07-03 02:04:21,875 | INFO | New satellite modem test run started
+2026-07-03 02:04:21,875 | INFO | Run ID: 20260703_020421
+2026-07-03 02:04:21,875 | INFO | Timestamp: 2026-07-03T02:04:21
+2026-07-03 02:04:21,875 | INFO | SNR Test | Measured: 10.25 dB | Limit: 10 dB | Status: PASS
+2026-07-03 02:04:21,875 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 02:04:21,875 | INFO | Latency Test | Measured: 47.74 ms | Limit: 50 ms | Status: PASS
+2026-07-03 02:04:21,875 | INFO | Throughput Test | Measured: 26.47 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 02:04:21,875 | INFO | Test run completed
+2026-07-03 02:04:24,203 | INFO | New satellite modem test run started
+2026-07-03 02:04:24,203 | INFO | Run ID: 20260703_020424
+2026-07-03 02:04:24,203 | INFO | Timestamp: 2026-07-03T02:04:24
+2026-07-03 02:04:24,203 | INFO | SNR Test | Measured: 13.38 dB | Limit: 10 dB | Status: PASS
+2026-07-03 02:04:24,204 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 02:04:24,204 | INFO | Latency Test | Measured: 73.02 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 02:04:24,204 | INFO | Throughput Test | Measured: 31.65 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 02:04:24,205 | INFO | Test run completed
+2026-07-03 02:04:25,953 | INFO | New satellite modem test run started
+2026-07-03 02:04:25,953 | INFO | Run ID: 20260703_020425
+2026-07-03 02:04:25,953 | INFO | Timestamp: 2026-07-03T02:04:25
+2026-07-03 02:04:25,954 | INFO | SNR Test | Measured: 12.36 dB | Limit: 10 dB | Status: PASS
+2026-07-03 02:04:25,954 | INFO | BER Test | Measured: 1e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 02:04:25,954 | INFO | Latency Test | Measured: 36.13 ms | Limit: 50 ms | Status: PASS
+2026-07-03 02:04:25,954 | INFO | Throughput Test | Measured: 33.2 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 02:04:25,954 | INFO | Test run completed
+2026-07-03 02:04:27,533 | INFO | New satellite modem test run started
+2026-07-03 02:04:27,533 | INFO | Run ID: 20260703_020427
+2026-07-03 02:04:27,534 | INFO | Timestamp: 2026-07-03T02:04:27
+2026-07-03 02:04:27,534 | INFO | SNR Test | Measured: 15.51 dB | Limit: 10 dB | Status: PASS
+2026-07-03 02:04:27,534 | INFO | BER Test | Measured: 1e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 02:04:27,534 | INFO | Latency Test | Measured: 45.6 ms | Limit: 50 ms | Status: PASS
+2026-07-03 02:04:27,534 | INFO | Throughput Test | Measured: 31.37 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 02:04:27,534 | INFO | Test run completed
+2026-07-03 02:04:31,372 | INFO | New satellite modem test run started
+2026-07-03 02:04:31,373 | INFO | Run ID: 20260703_020431
+2026-07-03 02:04:31,374 | INFO | Timestamp: 2026-07-03T02:04:31
+2026-07-03 02:04:31,374 | INFO | SNR Test | Measured: 9.95 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 02:04:31,374 | INFO | BER Test | Measured: 1e-05 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 02:04:31,375 | INFO | Latency Test | Measured: 20.92 ms | Limit: 50 ms | Status: PASS
+2026-07-03 02:04:31,375 | INFO | Throughput Test | Measured: 13.71 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 02:04:31,375 | INFO | Test run completed
+2026-07-03 02:04:33,431 | INFO | New satellite modem test run started
+2026-07-03 02:04:33,431 | INFO | Run ID: 20260703_020433
+2026-07-03 02:04:33,432 | INFO | Timestamp: 2026-07-03T02:04:33
+2026-07-03 02:04:33,432 | INFO | SNR Test | Measured: 11.2 dB | Limit: 10 dB | Status: PASS
+2026-07-03 02:04:33,432 | INFO | BER Test | Measured: 5e-07 ratio | Limit: 1e-06 ratio | Status: PASS
+2026-07-03 02:04:33,432 | INFO | Latency Test | Measured: 39.52 ms | Limit: 50 ms | Status: PASS
+2026-07-03 02:04:33,432 | INFO | Throughput Test | Measured: 26.37 Mbps | Limit: 20 Mbps | Status: PASS
+2026-07-03 02:04:33,432 | INFO | Test run completed
+2026-07-03 02:04:36,006 | INFO | New satellite modem test run started
+2026-07-03 02:04:36,007 | INFO | Run ID: 20260703_020436
+2026-07-03 02:04:36,007 | INFO | Timestamp: 2026-07-03T02:04:36
+2026-07-03 02:04:36,007 | INFO | SNR Test | Measured: 9.43 dB | Limit: 10 dB | Status: FAIL
+2026-07-03 02:04:36,008 | INFO | BER Test | Measured: 2e-06 ratio | Limit: 1e-06 ratio | Status: FAIL
+2026-07-03 02:04:36,008 | INFO | Latency Test | Measured: 74.47 ms | Limit: 50 ms | Status: FAIL
+2026-07-03 02:04:36,008 | INFO | Throughput Test | Measured: 10.53 Mbps | Limit: 20 Mbps | Status: FAIL
+2026-07-03 02:04:36,008 | INFO | Test run completed
